@@ -23,3 +23,20 @@ the right way around.
 
 ![teardown speaker position](gigaset-cl660hx-speaker.jpg "Gigaset CL660HX teardown - speaker position")
 
+## Disable the red flashing light
+
+The device has an extremely annoying red flashing light that cannot be turned
+off via software. When soft methods don't work, you unfortunately have to
+resort to harder measures ;-)
+
+I solved it by attaching a RLDD (red light disabling device, some ignorant
+people also call it a piece of scotch tape) to the back of the keyboard, as
+shown here in the pictures:
+
+![cl660hx red light](gigaset-cl660hx-redlight-sparkle.jpg "Gigaset CL660HX - red flashing light")
+![cl660hx disable red light](gigaset-cl660hx-anti-redlight.jpg "Gigaset CL660HX - RLDD")
+
+## Credits
+
+Visual effects for the red light photo were contributed by _Frank_. Thanks.
+
